@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PlaybackMC.aternos.me",
+    "port": 32442,
     "version": "",
     "try-creative": false
   },
